@@ -1,0 +1,11 @@
+
+Pinging 13.33.167.72 with 32 bytes of data:
+Reply from 13.33.167.72: bytes=32 time=190ms TTL=233
+Reply from 13.33.167.72: bytes=32 time=308ms TTL=233
+Reply from 13.33.167.72: bytes=32 time=140ms TTL=233
+Reply from 13.33.167.72: bytes=32 time=328ms TTL=233
+
+Ping statistics for 13.33.167.72:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 140ms, Maximum = 328ms, Average = 241ms

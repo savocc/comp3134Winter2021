@@ -1,0 +1,13 @@
+dig +short google.com
+172.217.1.14
+dig +short cisco.com
+72.163.4.185
+dig +short apple.com
+17.253.144.10
+dig +short wikipedia.org
+208.80.154.224
+dig +short signal.org
+13.33.167.72
+13.33.167.8
+13.33.167.42
+13.33.167.114

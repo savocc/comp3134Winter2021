@@ -1,0 +1,11 @@
+
+Pinging 165.22.232.216 with 32 bytes of data:
+Reply from 165.22.232.216: bytes=32 time=135ms TTL=44
+Reply from 165.22.232.216: bytes=32 time=324ms TTL=44
+Reply from 165.22.232.216: bytes=32 time=152ms TTL=44
+Reply from 165.22.232.216: bytes=32 time=133ms TTL=44
+
+Ping statistics for 165.22.232.216:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 133ms, Maximum = 324ms, Average = 186ms

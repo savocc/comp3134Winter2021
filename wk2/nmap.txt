@@ -1,0 +1,50 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-29 14:40 UTC
+Nmap scan report for github.com (140.82.113.4)
+Host is up (0.026s latency).
+rDNS record for 140.82.113.4: lb-140-82-113-4-iad.github.com
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+443/tcp  open  https
+9418/tcp open  git
+
+-----
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-29 19:42 UTC
+Nmap scan report for blackboard.com (104.209.183.225)
+Host is up (0.030s latency).
+
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 11.24 seconds
+
+-----
+
+ nmap -p 0-100 canva.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-29 19:43 UTC
+Nmap scan report for canva.com (104.17.115.17)
+Host is up (0.013s latency).
+Other addresses for canva.com (not scanned): 104.17.114.17 2606:4700::6811:7211 2606:4700::6811:7311
+Not shown: 100 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 12.80 seconds
+
+-----
+
+nmap -F mozilla.org
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-29 19:44 UTC
+Nmap scan report for mozilla.org (44.235.246.155)
+Host is up (0.064s latency).
+Other addresses for mozilla.org (not scanned): 44.236.48.31 44.236.72.93
+rDNS record for 44.235.246.155: ec2-44-235-246-155.us-west-2.compute.amazonaws.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 13.62 seconds
+
