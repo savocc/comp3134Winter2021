@@ -1,0 +1,3 @@
+Browser presents us the directory contents and the name of the PHP file,
+which can be sensitive. With a directory traversal ,an attacker can make use of this vulnerability to step out
+of the root directory and access other parts of the file system.

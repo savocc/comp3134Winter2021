@@ -1,0 +1,2 @@
+I see that now my elemnts from 0 or 1 index in array are now not displayed.
+The sequences I used in path may be blocked by some web servers.

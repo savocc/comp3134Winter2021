@@ -1,0 +1,2 @@
+We use basename to not be able see files/folders
+we protect ourselves by using file_exists() that stops attacker from looking at folders that do not exist

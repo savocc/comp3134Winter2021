@@ -1,0 +1,3 @@
+I see that my root directories are displayed. 
+The attacker can use this local directories to hack websites
+using directory traversal attacks.
