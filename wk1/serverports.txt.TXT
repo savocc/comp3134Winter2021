@@ -1,0 +1,30 @@
+• What is the definition of server port?
+Answer: A port is a logical construct that represents a proccess of network service. 
+A port is identified for each transport protocol and address combination by a 16-bit unsigned number, known as the port number.
+
+
+
+• What is server port range?
+Answer: Registered ports are in the range 1024 to 49151. 
+Dynamic ports are in the range 49152 to 65535.
+Most new port assignments are in the range from 1024 to 49151. 
+
+
+
+• How many bits does number above represent?
+Answer: A 16-bit integer can store 2^16 (or 65,536) distinct values.
+
+
+
+• State 10 common server ports
+Answer:
+1. File Transfer Protocol (FTP) 
+2. Secure Shell (SSH) 
+3. HyperText Transfer Protocol (HTTP) 
+4. Post Office Protocol (POP3)
+5. Telnet
+6. HyperText Transfer Protocol (HTTP) 
+7. Domain Name System (DNS) 
+8. Internet Relay Chat (IRC)
+9. Simple Network Management Protocol (SNMP)
+10. Network Time Protocol (NTP)
