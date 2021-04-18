@@ -1,0 +1,2 @@
+Login is successful only in case if the POST confirmation value is provided the same as the SESSION confirmation value.
+If the POST confirmation value was hardcoded randomly, the login will fail.
