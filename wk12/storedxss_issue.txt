@@ -1,0 +1,2 @@
+While we aren't sanitizing the contents of the input file, any script in it will be executed.
+In this example, we will be redirected to directory_traversal_part1.php
